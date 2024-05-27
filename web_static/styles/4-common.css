@@ -3,7 +3,7 @@ body{
     padding: 0;
     height: 100vh;
     color: #484848;
-    /* display: flex; */
+    display: flex;
     flex-direction: column;
     justify-content: space-between;
     font-size: 14px;
@@ -11,6 +11,6 @@ body{
 }
 
 .container{
-    max-width: 1000px;
+    width: 1000px;
     margin: 30px auto;
 }
